@@ -11,17 +11,7 @@ Zitat:
 > Alle schauen neidisch, wenn ich inf Fitnesstudio komme.  
 > Pah! Sollen die sich doch eine eigene Pizza mitbringen!  
 
-//Comment?
-test  
-1  
-2  
-3  
-4  
-ene  
-mene  
-mopel  
-1. 
-2. 
-3. 
-4. 
+. Das ist eine Aufzählung
+. Hier steht was in **fett**
+
 
