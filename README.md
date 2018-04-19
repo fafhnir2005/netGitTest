@@ -8,6 +8,5 @@
 |ene|`mene`|mopel|
 
 Zitat:
-> Alle schauen neidisch, wenn ich inf Fitnesstudio komme.
-
+> Alle schauen neidisch, wenn ich inf Fitnesstudio komme.<p>
 > Pah! Sollen die sich doch eine eigene Pizza mitbringen!
